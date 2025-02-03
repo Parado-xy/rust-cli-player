@@ -22,7 +22,7 @@ A simple command-line music player built in Rust, allowing basic audio playback 
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/rust-cli-music-player.git
+git clone https://github.com/parado-xy/rust-cli-music-player.git
 cd rust-cli-music-player
 ```
 
